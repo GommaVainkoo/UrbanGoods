@@ -1,4 +1,3 @@
-
 1 - Clone project: git clone https://github.com/GommaVainkoo/UrbanGoods/
 2 - cd UrbanGoods
 3 - Create virtual environment: virtualenv myenv
@@ -9,4 +8,5 @@
 8 - Run another terminal (Ctrl+Shift+`)
 9 - cd backend
 10 - cd frontend
-11 - npm start
+11 - npm install
+12 - npm start
